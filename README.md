@@ -10,7 +10,7 @@ le previsioni sono implementate nel notebook  ``notebooks/PartecipazioniModel.ip
 
 Il modulo ``models/models.py`` contiene la definizione dei modelli predittivi utilizzati.
 
-Sono richieste le seguenti labriries:
+Sono richieste le seguenti libraries:
 
 * numpy
 * pandas
